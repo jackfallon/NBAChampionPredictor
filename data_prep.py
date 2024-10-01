@@ -57,8 +57,8 @@ merged_data.drop(columns=features_to_drop, inplace=True)
 # One-Hot Encode categorical variables (team, abbreviation)
 merged_data = pd.get_dummies(merged_data, columns=['team', 'abbreviation'], drop_first=True)
 
-train_data = merged_data[merged_data['season'] <= 2019]
-test_data = merged_data[merged_data['season'] > 2019]
+train_data = merged_data[merged_data['season'] <= 2015]
+test_data = merged_data[merged_data['season'] > 2015]
 
 #Split into training and testing sets
 X_train = train_data.drop(columns=['is_champion'])
