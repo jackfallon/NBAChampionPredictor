@@ -1,0 +1,76 @@
+index,Year,Western Champion,Eastern Champion,Result,NBA Champion,NBA Vice-Champion,Final Sweep ?,MVP Name,MVP Team
+0,1950,Minneapolis Lakers,Syracuse Nationals,4–2,Minneapolis Lakers,Syracuse Nationals,False,,
+1,1951,Rochester Royals,New York Knicks,4–3,Rochester Royals,New York Knicks,False,,
+2,1952,Minneapolis Lakers,New York Knicks,4–3,Minneapolis Lakers,New York Knicks,False,,
+3,1953,Minneapolis Lakers,New York Knicks,4–1,Minneapolis Lakers,New York Knicks,False,,
+4,1954,Minneapolis Lakers,Syracuse Nationals,4–3,Minneapolis Lakers,Syracuse Nationals,False,,
+5,1955,Fort Wayne Pistons,Syracuse Nationals,3–4,Syracuse Nationals,Fort Wayne Pistons,False,,
+6,1956,Fort Wayne Pistons,Philadelphia Warriors,1–4,Philadelphia Warriors,Fort Wayne Pistons,False,B. Pettit,Saint Louis Hawks
+7,1957,St. Louis Hawks,Boston Celtics,3–4,Boston Celtics,St. Louis Hawks,False,B. Cousy,Boston Celtics
+8,1958,St. Louis Hawks,Boston Celtics,4–2,St. Louis Hawks,Boston Celtics,False,B. Russell,Boston Celtics
+9,1959,Minneapolis Lakers,Boston Celtics,0–4,Boston Celtics,Minneapolis Lakers,True,B. Pettit,Saint Louis Hawks
+10,1960,St. Louis Hawks,Boston Celtics,3–4,Boston Celtics,St. Louis Hawks,False,W. Chamberlain,Philadelphia Warriors
+11,1961,St. Louis Hawks,Boston Celtics,1–4,Boston Celtics,St. Louis Hawks,False,B. Russell,Boston Celtics
+12,1962,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,False,B. Russell,Boston Celtics
+13,1963,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,False,B. Russell,Boston Celtics
+14,1964,San Francisco Warriors,Boston Celtics,1–4,Boston Celtics,San Francisco Warriors,False,O. Robertson,Cincinnati Royals
+15,1965,Los Angeles Lakers,Boston Celtics,1–4,Boston Celtics,Los Angeles Lakers,False,B. Russell,Boston Celtics
+16,1966,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,False,W. Chamberlain,Philadelphia 76ers
+17,1967,San Francisco Warriors,Philadelphia 76ers,2–4,Philadelphia 76ers,San Francisco Warriors,False,W. Chamberlain,Philadelphia 76ers
+18,1968,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,False,W. Chamberlain,Philadelphia 76ers
+19,1969,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,False,W. Unseld,Baltimore Bullets
+20,1970,Los Angeles Lakers,New York Knicks,3–4,New York Knicks,Los Angeles Lakers,False,W. Reed,New York Knicks
+21,1971,Milwaukee Bucks,Baltimore Bullets,4–0,Milwaukee Bucks,Baltimore Bullets,True,K. AJabbar,Milwaukee Bucks
+22,1972,Los Angeles Lakers,New York Knicks,4–1,Los Angeles Lakers,New York Knicks,False,K. AJabbar,Milwaukee Bucks
+23,1973,Los Angeles Lakers,New York Knicks,1–4,New York Knicks,Los Angeles Lakers,False,D. Cowens,Boston Celtics
+24,1974,Milwaukee Bucks,Boston Celtics,3–4,Boston Celtics,Milwaukee Bucks,False,K. AJabbar,Milwaukee Bucks
+25,1975,Golden State Warriors,Washington Bullets,4–0,Golden State Warriors,Washington Bullets,True,B. McAdoo,Buffalo Braves
+26,1976,Phoenix Suns,Boston Celtics,2–4,Boston Celtics,Phoenix Suns,False,K. AJabbar,Los Angeles Lakers
+27,1977,Portland Trail Blazers,Philadelphia 76ers,4–2,Portland Trail Blazers,Philadelphia 76ers,False,K. A-Jabbar,Los Angeles Lakers
+28,1978,Seattle SuperSonics,Washington Bullets,3–4,Washington Bullets,Seattle SuperSonics,False,B. Walton,Portland Trail Blazers
+29,1979,Seattle SuperSonics,Washington Bullets,4–1,Seattle SuperSonics,Washington Bullets,False,M. Malone,Houston Rockets
+30,1980,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,False,K. AJabbar,Los Angeles Lakers
+31,1981,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,False,J. Erving,Philadelphia 76ers
+32,1982,Los Angeles Lakers,Philadelphia 76ers,4–2,Los Angeles Lakers,Philadelphia 76ers,False,M. Malone,Houston Rockets
+33,1983,Los Angeles Lakers,Philadelphia 76ers,0–4,Philadelphia 76ers,Los Angeles Lakers,True,M. Malone,Philadelphia 76ers
+34,1984,Los Angeles Lakers,Boston Celtics,3–4,Boston Celtics,Los Angeles Lakers,False,L. Bird,Boston Celtics
+35,1985,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,False,L. Bird,Boston Celtics
+36,1986,Houston Rockets,Boston Celtics,2–4,Boston Celtics,Houston Rockets,False,L. Bird,Boston Celtics
+37,1987,Los Angeles Lakers,Boston Celtics,4–2,Los Angeles Lakers,Boston Celtics,False,M. Johnson,Los Angeles Lakers
+38,1988,Los Angeles Lakers,Detroit Pistons,4–3,Los Angeles Lakers,Detroit Pistons,False,M. Jordan,Chicago Bulls
+39,1989,Los Angeles Lakers,Detroit Pistons,0–4,Detroit Pistons,Los Angeles Lakers,True,M. Johnson,Los Angeles Lakers
+40,1990,Portland Trail Blazers,Detroit Pistons,1–4,Detroit Pistons,Portland Trail Blazers,False,M. Johnson,Los Angeles Lakers
+41,1991,Los Angeles Lakers,Chicago Bulls,1–4,Chicago Bulls,Los Angeles Lakers,False,M. Jordan,Chicago Bulls
+42,1992,Portland Trail Blazers,Chicago Bulls,2–4,Chicago Bulls,Portland Trail Blazers,False,M. Jordan,Chicago Bulls
+43,1993,Phoenix Suns,Chicago Bulls,2–4,Chicago Bulls,Phoenix Suns,False,C. Barkley,Phoenix Suns
+44,1994,Houston Rockets,New York Knicks,4–3,Houston Rockets,New York Knicks,False,H. Olajuwon,Houston Rockets
+45,1995,Houston Rockets,Orlando Magic,4–0,Houston Rockets,Orlando Magic,True,D. Robinson,San Antonio Spurs
+46,1996,Seattle SuperSonics,Chicago Bulls,2–4,Chicago Bulls,Seattle SuperSonics,False,M. Jordan,Chicago Bulls
+47,1997,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,False,K. Malone,Utah Jazz
+48,1998,Utah Jazz,Chicago Bulls,2–4,Chicago Bulls,Utah Jazz,False,M. Jordan,Chicago Bulls
+49,1999,San Antonio Spurs,New York Knicks,4–1,San Antonio Spurs,New York Knicks,False,K. Malone,Utah Jazz
+50,2000,Los Angeles Lakers,Indiana Pacers,4–2,Los Angeles Lakers,Indiana Pacers,False,S. O'Neal,Los Angeles Lakers
+51,2001,Los Angeles Lakers,Philadelphia 76ers,4–1,Los Angeles Lakers,Philadelphia 76ers,False,A. Iverson,Philadelphia 76ers
+52,2002,Los Angeles Lakers,New Jersey Nets,4–0,Los Angeles Lakers,New Jersey Nets,True,T. Duncan,San Antonio Spurs
+53,2003,San Antonio Spurs,New Jersey Nets,4–2,San Antonio Spurs,New Jersey Nets,False,T. Duncan,San Antonio Spurs
+54,2004,Los Angeles Lakers,Detroit Pistons,1–4,Detroit Pistons,Los Angeles Lakers,False,K. Garnett,Minnesota Timberwolves
+55,2005,San Antonio Spurs,Detroit Pistons,4–3,San Antonio Spurs,Detroit Pistons,False,S. Nash,Phoenix Suns
+56,2006,Dallas Mavericks,Miami Heat,2–4,Miami Heat,Dallas Mavericks,False,S. Nash,Phoenix Suns
+57,2007,San Antonio Spurs,Cleveland Cavaliers,4–0,San Antonio Spurs,Cleveland Cavaliers,True,D. Nowitzki,Dallas Mavericks
+58,2008,Los Angeles Lakers,Boston Celtics,2–4,Boston Celtics,Los Angeles Lakers,False,K. Bryant,Los Angeles Lakers
+59,2009,Los Angeles Lakers,Orlando Magic,4–1,Los Angeles Lakers,Orlando Magic,False,L. James,Cleveland Cavaliers
+60,2010,Los Angeles Lakers,Boston Celtics,4–3,Los Angeles Lakers,Boston Celtics,False,L. James,Cleveland Cavaliers
+61,2011,Dallas Mavericks,Miami Heat,4–2,Dallas Mavericks,Miami Heat,False,D. Rose,Chicago Bulls
+62,2012,Oklahoma City Thunder,Miami Heat,1–4,Miami Heat,Oklahoma City Thunder,False,L. James,Miami Heat
+63,2013,San Antonio Spurs,Miami Heat,3–4,Miami Heat,San Antonio Spurs,False,L. James,Miami Heat
+64,2014,San Antonio Spurs,Miami Heat,4–1,San Antonio Spurs,Miami Heat,False,K. Durant,Oklahoma City Thunder
+65,2015,Golden State Warriors,Cleveland Cavaliers,4–2,Golden State Warriors,Cleveland Cavaliers,False,S. Curry,Golden State Warriors
+66,2016,Golden State Warriors,Cleveland Cavaliers,4–3,Cleveland Cavaliers,Golden State Warriors,False,S. Curry,Golden State Warriors
+67,2017,Golden State Warriors,Cleveland Cavaliers,4-2,Golden State Warriors,Cleveland Cavaliers,False,R. Westbrook,Oklahoma City Thunder
+68,2018,Golden State Warriors,Cleveland Cavaliers,4-0,Golden State Warriors,Cleveland Cavaliers,True,J. Harden,Houston Rockets
+69,2019,Golden State Warriors,Toronto Raptors,4-2,Toronto Raptors,Golden State Warriors,False,G. Antetokounmpo,Milwaukee Bucks
+70,2020,Los Angeles Lakers,Miami Heat,4-2,Los Angeles Lakers,Miami Heat,False,G. Antetokounmpo,
+71,2021,Phoenix Suns,Milwaukee Bucks,4-2,Milwaukee Bucks,Phoenix Suns,False,N. Jokic,
+72,2022,Golden State Warriors,Boston Celtics,4-2,Golden State Warriors,Boston Celtics,False,N. Jokic,
+73,2023,Denver Nuggets,Miami Heat,4-1,Denver Nuggets,Miami Heat,False,J. Embiid,
+74,2024,Dallas Mavericks,Boston Celtics,4-1,Boston Celtics,Dallas Mavericks,False,N. Jokic,
